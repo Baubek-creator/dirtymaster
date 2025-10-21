@@ -1,6 +1,6 @@
 # Hi, I'm Baubek✋
 
-🧑‍💻Junior Software Engineering student at Narxoz Univercity
+🧑‍💻Junior Software Engineering student at Narxoz Univercity;
 
 [Instagram]:https://www.instagram.com/_mukhtarovich_b_?igsh=cDNzZGZtajJ0dmJh&utm_source=qr
 
